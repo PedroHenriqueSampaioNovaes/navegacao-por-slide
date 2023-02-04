@@ -1,4 +1,4 @@
-# Navegacao por Slides
+# Navegação por Slides
 Navegação responsiva desenvolvida com JavaScript puro usando classes.
 
 ## Imagens
